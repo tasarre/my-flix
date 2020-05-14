@@ -4,7 +4,7 @@ import  { read } from "./api/Database"
 import { authenticateUser } from "./api/Auth"
 const constants = {
   BASE_URL: "http://www.omdbapi.com/?", 
-  API_KEY: "f6fa6a60"
+  API_KEY: "********"
 }
 
 const App = () => {
